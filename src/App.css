@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body {
+/* html, body {
     overflow-x: hidden;
-}
-
-/* .homepage_bg {
-    background: url("../src/assets/Images/bghome.svg");
 } */
+
+.homepage_bg {
+    background: url("../src/assests/Images/bghome.svg");
+}
 
 /* https://10015.io/tools/css-loader-generator */
 /* .spinner {
